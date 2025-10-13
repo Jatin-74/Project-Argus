@@ -1,0 +1,25 @@
+2025-10-13 14:11:35,800 - INFO - Starting video processing loop. Press 'q' to quit.
+2025-10-13 14:11:42,190 - WARNING - Side head tilt detected! Angle: -35.85 degrees
+2025-10-13 14:11:46,525 - WARNING - Yawn detected!
+2025-10-13 14:11:50,259 - WARNING - Side head tilt detected! Angle: -41.78 degrees
+2025-10-13 14:11:52,828 - WARNING - Prolonged eye closure detected!
+2025-10-13 14:11:57,380 - WARNING - Side head tilt detected! Angle: 172.97 degrees
+2025-10-13 14:11:57,381 - WARNING - Up/Down head tilt detected! Angle: 35.97 degrees
+2025-10-13 14:12:02,665 - WARNING - Face not detected for a prolonged period.
+2025-10-13 14:12:07,186 - WARNING - Yawn detected!
+2025-10-13 14:12:23,744 - WARNING - Prolonged eye closure detected!
+2025-10-13 14:12:27,560 - WARNING - Prolonged eye closure detected!
+2025-10-13 14:12:30,512 - WARNING - Prolonged eye closure detected!
+2025-10-13 14:12:33,715 - WARNING - Prolonged eye closure detected!
+2025-10-13 14:12:39,107 - WARNING - Up/Down head tilt detected! Angle: 30.66 degrees
+2025-10-13 14:12:39,372 - WARNING - Side head tilt detected! Angle: 170.69 degrees
+2025-10-13 14:12:48,371 - WARNING - Prolonged eye closure detected!
+2025-10-13 14:12:49,425 - WARNING - Up/Down head tilt detected! Angle: 22.63 degrees
+2025-10-13 14:12:51,771 - WARNING - Up/Down head tilt detected! Angle: 37.01 degrees
+2025-10-13 14:12:52,303 - WARNING - Prolonged eye closure detected!
+2025-10-13 14:12:53,279 - WARNING - Side head tilt detected! Angle: 172.86 degrees
+2025-10-13 14:13:03,336 - WARNING - Yawn detected!
+2025-10-13 14:13:14,313 - WARNING - Side head tilt detected! Angle: -22.92 degrees
+2025-10-13 14:13:24,718 - WARNING - Yawn detected!
+2025-10-13 14:13:33,019 - INFO - Shutting down...
+2025-10-13 14:13:33,586 - INFO - Cleanup complete. Exiting.
