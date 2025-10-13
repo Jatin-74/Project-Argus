@@ -23,3 +23,6 @@
 2025-10-13 14:13:24,718 - WARNING - Yawn detected!
 2025-10-13 14:13:33,019 - INFO - Shutting down...
 2025-10-13 14:13:33,586 - INFO - Cleanup complete. Exiting.
+2025-10-13 14:23:15,758 - INFO - Starting video processing loop. Press 'q' to quit.
+2025-10-13 14:23:30,811 - INFO - Shutting down...
+2025-10-13 14:23:31,230 - INFO - Cleanup complete. Exiting.
