@@ -197,3 +197,39 @@
 2025-10-31 01:05:40,837 - WARNING - Head turned sideways! Yaw: -27.28
 2025-10-31 01:05:43,938 - INFO - Shutting down...
 2025-10-31 01:05:44,382 - INFO - Cleanup complete. Exiting.
+2025-10-31 01:06:42,668 - INFO - Starting video processing loop. Press 'q' to quit.
+2025-10-31 01:06:51,977 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:06:58,303 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:07:06,560 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:07:10,863 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:07:13,163 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:07:13,459 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:07:19,008 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:07:22,806 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:07:26,621 - WARNING - Head tilt! Roll: -0.31, Pitch: -29.89
+2025-10-31 01:07:27,373 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:07:29,604 - WARNING - Head turned sideways! Yaw: 34.64
+2025-10-31 01:07:29,983 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:07:35,383 - WARNING - Eyes covered detected!
+2025-10-31 01:07:35,999 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:07:37,101 - WARNING - Eyes covered detected!
+2025-10-31 01:07:37,273 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:07:39,013 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:07:50,229 - INFO - Shutting down...
+2025-10-31 01:07:50,652 - INFO - Cleanup complete. Exiting.
+2025-10-31 01:08:28,351 - INFO - Starting video processing loop. Press 'q' to quit.
+2025-10-31 01:08:30,863 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:08:44,391 - WARNING - Face not-detected for a prolonged period.
+2025-10-31 01:08:48,233 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:08:51,207 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:08:59,258 - WARNING - Head turned sideways! Yaw: 40.07
+2025-10-31 01:09:01,789 - WARNING - Head turned sideways! Yaw: 28.40
+2025-10-31 01:09:08,129 - WARNING - Head turned sideways! Yaw: 40.10
+2025-10-31 01:09:10,896 - WARNING - Head turned sideways! Yaw: 31.46
+2025-10-31 01:09:12,842 - WARNING - Head turned sideways! Yaw: 21.56
+2025-10-31 01:09:14,227 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:09:27,900 - WARNING - Head turned sideways! Yaw: -70.88
+2025-10-31 01:09:32,047 - WARNING - Head turned sideways! Yaw: 55.64
+2025-10-31 01:09:33,058 - WARNING - Head turned sideways! Yaw: 41.70
+2025-10-31 01:09:34,191 - INFO - Shutting down...
+2025-10-31 01:09:34,599 - INFO - Cleanup complete. Exiting.

@@ -511,7 +511,7 @@ while True:
     # Face missing alert (adjust position if needed, check for overlap)
     if current_time < FACE_MISSING_DISPLAY_UNTIL:
         # Place it at a fixed position
-        cv2.putText(frame, "Please look at the camera", (10, 60), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
+        cv2.putText(frame, "face not detected", (10, 60), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
 
 
     cv2.imshow('Drowsiness & Attention Monitor', frame)
