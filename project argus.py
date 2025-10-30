@@ -46,7 +46,7 @@ PITCH_THRESH_DEGREES = 20
 PITCH_CONSEC_FRAMES = 15
 
 # <<< CHANGED: Lowered angle threshold for better head turn detection >>>
-YAW_THRESH_DEGREES = 20 
+YAW_THRESH_DEGREES = 35
 YAW_CONSEC_FRAMES = 15 
 
 FACE_MISSING_SECONDS = 3.0
