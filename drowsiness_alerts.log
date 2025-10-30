@@ -233,3 +233,25 @@
 2025-10-31 01:09:33,058 - WARNING - Head turned sideways! Yaw: 41.70
 2025-10-31 01:09:34,191 - INFO - Shutting down...
 2025-10-31 01:09:34,599 - INFO - Cleanup complete. Exiting.
+2025-10-31 01:11:32,926 - INFO - Starting video processing loop. Press 'q' to quit.
+2025-10-31 01:11:33,729 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:11:41,117 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:11:57,478 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:12:00,347 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:12:17,567 - WARNING - Head turned sideways! Yaw: -22.29
+2025-10-31 01:12:18,283 - INFO - Shutting down...
+2025-10-31 01:12:18,762 - INFO - Cleanup complete. Exiting.
+2025-10-31 01:12:31,502 - INFO - Starting video processing loop. Press 'q' to quit.
+2025-10-31 01:12:38,867 - WARNING - Head turned sideways! Yaw: -55.58
+2025-10-31 01:12:45,807 - WARNING - Head turned sideways! Yaw: 70.24
+2025-10-31 01:12:48,023 - WARNING - Hand(s) detected off wheel.
+2025-10-31 01:12:53,159 - WARNING - Head turned sideways! Yaw: 69.51
+2025-10-31 01:12:54,289 - WARNING - Head turned sideways! Yaw: -74.99
+2025-10-31 01:12:59,305 - WARNING - Head tilt! Roll: 0.64, Pitch: -44.15
+2025-10-31 01:12:59,647 - WARNING - Prolonged eye closure detected!
+2025-10-31 01:13:06,009 - WARNING - Head tilt! Roll: 178.73, Pitch: 32.02
+2025-10-31 01:13:10,281 - WARNING - Head turned sideways! Yaw: -27.54
+2025-10-31 01:13:10,542 - WARNING - Yawn detected!
+2025-10-31 01:13:17,719 - WARNING - Head tilt! Roll: -34.97, Pitch: -9.63
+2025-10-31 01:13:19,064 - INFO - Shutting down...
+2025-10-31 01:13:19,504 - INFO - Cleanup complete. Exiting.
